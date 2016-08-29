@@ -1,0 +1,17 @@
+{
+  "name": "ngcodeblocks",
+  "main": "ngcodeblocks.js",
+  "homepage": "https://github.com/jvpsousa/ngcodeblocks",
+  "authors": [
+    "João Vitor <jvpsousa@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
