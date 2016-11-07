@@ -24,6 +24,8 @@ function $CodeblocksProvider() {
 
 			route = traitRoute(route);
 
+			data.usergridToken = window.localStorage.getItem('apigee_token');					
+
 			$http({
 				url: codeblocksUrl+route,
 				method: method,
