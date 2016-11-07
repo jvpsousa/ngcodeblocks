@@ -1,6 +1,7 @@
 {
   "name": "ngcodeblocks",
   "main": "ngcodeblocks.js",
+  "version": "0.0.5",
   "homepage": "https://github.com/jvpsousa/ngcodeblocks",
   "authors": [
     "João Vitor <jvpsousa@gmail.com>"
